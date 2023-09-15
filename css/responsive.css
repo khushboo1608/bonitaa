@@ -1,0 +1,1957 @@
+@charset "utf-8";
+
+/* CSS Document */
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 991px) and (max-width: 1400px) {
+    
+        .Home-category-page-slider-2 .owl-theme .owl-nav [class*='owl-'] {
+    margin-left: 0px;
+    margin-right: -5px;
+    margin-top:-12px;
+   }
+   
+    .Home-category-page-slider-3 .owl-theme .owl-nav [class*='owl-'] {
+    margin-left: 0px;
+    margin-right: -5px;
+    margin-top:18px;
+     }
+       .Home-category-page-slider-3  .owl-carousel .owl-item img {
+           border-radius:10px;
+       }
+
+}
+
+@media (min-width: 991px) and (max-width: 1200px) {
+    .navbar{
+        padding: 0px ; 
+     }
+     .top-header-dropdown{
+        float: left;
+        display: flex;
+       
+        position: absolute;
+        left: 36%;
+     }
+     .navbar .menu-items{
+        width: auto ;
+     }
+     
+
+}
+
+@media screen and (max-width: 370px) {
+    .header-category-tabs .tablink{
+        width: 100% !important;
+        margin: 0 0 10px 0px !important;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .main-cart-serivce-2{
+        flex-wrap: wrap !important;
+    }
+    .cart-service-img{
+        max-width: 100% !important;
+    }
+    .card-main-box .card-desgin-box .card-service-box{
+        max-width: 100% !important;
+    }
+    .main-cart-serivce-2 .cart-service-img img{
+        border-radius: 10px;
+    }
+    .card-main-box.search_service .card-desgin-box .services-img{
+        margin-bottom: 30px;
+    }
+    .cart-service-img{
+        height: 250px;
+    }
+}
+
+/* width: 991px; */
+
+@media screen and (max-width: 61.938em) {
+    .waxix-box {
+        height: 285px;
+        display: block !important;
+    }
+    .nav-controller_box .waxix-box{
+        height: auto;
+        display: flex !important;
+    }
+    .nav-controller_box .waxix-box .waxix-img{
+        max-width: 33%;
+        min-width: auto;
+        height: fit-content !important;
+    }
+    .nav-controller_box .waxix-box .waxix-img .service-details{
+            top: 10px !important;
+            position: absolute !important;
+    }
+    .nav-controller_box .waxix-box .waxix-content ul li{
+        margin-top: 0;
+    }
+    .nav-controller_box .waxix-box .waxix-content ul{
+        margin-left: 0;
+    }
+    .nav-controller_box .waxix-box .waxix-content a{
+        padding: 5px 10px 5px 0px !important;
+    }
+    .nav-controller_box .waxix-box .waxix-content .service_time{
+        margin-left: 20px;
+        margin-bottom: 10px;
+    }
+    .nav-controller_box a .Login-btn{
+        margin-top: 10px;
+    }
+    .nav-controller_box .waxix-box .waxix-content .service_time{
+        display: block;
+    }
+    .nav-controller_box .waxix-box .waxix-content .bottom_right{
+        margin-top: 0;
+    }
+    .nav-controller_box .waxix-box .waxix-content{
+        margin-top: 0;
+        max-width: 67%;
+        padding: 10px;
+    }
+    .nav-controller_box .waxix-box .waxix-img img{
+        width: 100%;
+    }
+
+    .waxix-box .waxix-img {
+        width: 100% !important;
+        height: 172px !important;
+        text-align: initial;
+    }
+
+    .waxix-box .waxix-img img {
+        width: 160px;
+        border-radius: 10px 0px 0px 10px !important;
+        height: 150px !important;
+        margin-left: 0px;
+    }
+
+    .service-sticky-box{
+        display: block !important;
+    }
+    .waxix-box .waxix-content {
+        width: 100% !important;
+        padding: 0px;
+        margin-top: -10px;
+    }
+
+    .waxix-box .waxix-content ul {
+        padding-left: 0px;
+        margin-left: 8px;
+        margin-bottom: 0px;
+    }
+
+    .waxix-box .waxix-content ul a {
+        padding-left: 0px;
+    }
+
+    .navbar .menu-items {
+        top: 0px;
+        width: 380px ;
+    }
+
+    .header-cart {
+        margin-left: 70px;
+        margin-top: -14px;
+    }
+
+    .header-mobile {
+        display: block;
+    }
+
+    .header-mobile ul li {
+        margin-left: 20px;
+       
+        width: 90%;
+        padding: 6px;
+        cursor: pointer;
+        border-bottom: 1px solid #e2e2e2;
+        font-weight: 600;
+    }
+
+    .header-mobile ul li span {
+        margin-left: 5px;
+        font-size: 17px;
+        text-align: left;
+    }
+
+    .header-mobile ul li a i {
+        width: 30px;
+    }
+
+    .header-mobile ul li .logo-2 img {
+        height: 50px;
+        margin-bottom: 20px;
+        width: 200px;
+    }
+
+    .header-mobile ul li a {
+        padding: 8px !important;
+        color:black !important;
+        line-height: 20px !important;
+    }
+
+    .header-mobile ul li a i {
+        margin-right: 10px;
+    }
+
+    .header-mobile ul li a img {
+        margin-left: -7px;
+        height: 23px;
+        margin-right: 11px;
+    }
+
+    .waxix-box .waxix-content .bottom_right {
+        width: 100% !important;
+        display: block !important;
+        margin-top: 0px;
+    }
+
+
+    .checkout-main-box .checkout-box .checkbox-collpase .accordion-body .btn-primary {
+        width: auto;
+    }
+    .checkout-main-box .checkout-box .checkout-first-box .payment-selector-box .paymet-select-first-box{
+        margin-left: 0px !important;
+    }
+    .waxix-box .waxix-content .bottom_right .Price_box .Price {
+        font-weight: 800 !important;
+    }
+
+    .waxix-box .waxix-content .bottom_right {
+        font-size: 12px !important;
+        font-weight: 500 !important;
+        MARGIN-TOP: -214px;
+        margin-left: 0px;
+    }
+
+    .waxix-box .waxix-content .bottom_right .add_cart_btn {
+        margin-top: 18px !important;
+        height: 35px;
+        color: white !important;
+        background-color: #670099 !important;
+        border: 1px solid #670099 !important;
+        border-radius: 50px !important;
+        margin-left: 170px;
+    }
+
+    .waxix-box .waxix-content .bottom_right a .add_cart_btn {
+        margin-left: 0;
+        color: red;
+        border: 1px solid #670099 !important;
+        padding: 5px 15px !important;
+        border-radius: 50px !important;
+        white-space: nowrap;
+    }
+
+    .waxix-box .waxix-img .service-details {
+        padding-top: 5px !important;
+        border-radius: 0px 12px 12px 0px !important;
+        width: 100px !important;
+        position: relative !important;
+        top: -72% !important;
+        padding-bottom: 3px !important;
+        height: 27px;
+    }
+
+.waxix-box .waxix-img ul {}
+    .waxix-box .waxix-img .service-details1 {
+        padding-top: 5px !important;
+        border-radius: 0px 12px 12px 0px !important;
+        width: 100px !important;
+        position: relative !important;
+        top: -72% !important;
+        padding-bottom: 3px !important;
+        display: block;
+        height: 27px;
+    }
+  
+.waxix-box .waxix-img ul li p{
+    margin-bottom:0px;
+    color:black;
+        overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
+    .waxix-box .waxix-content .service_time {
+        display: none;
+    }
+
+    .show_time {
+        /* margin-left: 94px; */
+        display: block;
+        font-size: 15px;
+        width: fit-content;
+        margin-left: 170px;
+
+    }
+
+    .show_time .time {
+        margin-left: 7px;
+    }
+
+    .waxix-box .waxix-content .service_time1 span {
+        display: none;
+    }
+
+    .waxix-box .waxix-content .service_time1 i {
+        display: none;
+    }
+
+    .waxix-box .waxix-content h4 {
+        font-size: 18px;
+    }
+    .add_cart_btn{
+        margin-top:0px;
+        font-size:16px;
+    }
+
+    .waxix-box .waxix-img .service_time {
+        font-weight: 700;
+        margin-top: 28px !important;
+        position: absolute !important;
+        background-color: transparent !important;
+        left: 162px !important;
+        display: flex !important;
+        box-shadow: 0px 0px !important;
+        font-size: 12px;
+    }
+
+    .waxix-box .waxix-img .service_time1 {
+        font-weight: 700;
+        margin-top: 28px !important;
+        position: absolute !important;
+        background-color: transparent !important;
+        left: 162px !important;
+        display: flex !important;
+        box-shadow: 0px 0px !important;
+        font-size: 12px;
+    }
+
+
+    .waxix-box .waxix-img .service_time i {
+        font-size: 20px;
+        margin-right: 8px;
+    }
+
+    .waxix-box .waxix-img .service_time1 i {
+        font-size: 20px !important;
+        margin-right: 8px !important;
+    }
+
+    .waxim-text-img {
+        display: flex;
+    }
+
+    .waxim-text-img h4 {
+        margin-left: 18px;
+        font-size: 18px;
+        margin-top: 10px;
+    }
+
+    .waxix-box .waxix-content a {
+        font-weight: 600 !important;
+        padding: 5px 10px !important;
+        color: #670099 !important;
+        margin-left: 20px !important;
+        text-decoration: none;
+    }
+    .nav-controller_box .waxix-box .waxix-content .view-details-text{
+        margin-left: 0 !important;
+    }
+
+    .bold-content h1 {
+        font-size: 23px !important;
+    }
+
+    .scrollableArea {
+        padding: 0px !important;
+        padding-top: 0px !important;
+    }
+
+    .waxix-box .waxix-img .service-details3 {
+        display: none !important;
+    }
+
+    .navbar .menu-item {
+        margin-top: -5px !important;
+    }
+
+    /* home_page */
+    /* navbar-icon */
+    .navbar .header-right-box ul li .shop-cart {
+        position: absolute;
+        left: 5%;
+        top: 20px;
+        background: black;
+        color: white;
+        padding: 10px;
+        border-radius: 20px;
+    }
+    .navbar .header-right-box ul li input {
+        top: 38px;
+        width: 70%;
+        position: absolute;
+        left: 72px;
+    }
+
+    .navbar .header-right-box ul li .search-box {
+        position: absolute;
+        left: 25%;
+    }
+
+    .owl-theme .owl-nav {
+        margin-top: 294px !important;
+    }
+
+    .top-header-box .header-contact-detail .header-mail-details ul {
+        display: block;
+    }
+
+    .top-header-box .top-header-icon {
+        margin-left: 0px;
+    }
+
+    .tab-content-header-box {
+        margin-top: 160px !important;
+    }
+
+    .sub-categary-slider .slideCopy-content img {
+        height: 200px;
+    }
+
+    .categart-details-box .main-categary img {
+        height: auto !important;
+        width: 100% !important;
+    }
+
+    .sub_categary_single-img img {
+        width: 100%;
+        height: 117px;
+    }
+    
+     .bonitaa-safer-brand .col-sm-6{
+         width:50%;
+     }
+     .bonitaa-safer-brand .safer-brand-box p {
+         font-size:16px;
+}
+    .bonitaa-safer-brand h2 {
+        font-size: 22px;
+    }
+    .trasted-brand .trasted-brand-box img {
+        margin-bottom: 20px;
+    }
+
+    .sub-category-page-slider .owl-theme .owl-nav {
+        margin-top: 0px !important;
+    }
+
+    .beauty-categary-box .shop-box {
+        padding: 0px !important;
+    }
+
+    .beauty-categary-box .owl-carousel .owl-stage-outer {
+        width: auto !important;
+        margin-left: 0px !important;
+    }
+
+    .beauty-categary-box .owl-carousel .owl-item img {
+        height: 90px;
+        margin-left: 11px;
+    }
+
+    .beauty-categary-box .owl-carousel .owl-item .unified-img {
+        height: 174px;
+    }
+
+    .download-sms-section {
+        padding: 20px 0;
+    }
+
+    .download-content-section .input-group {
+        margin-left: 0px;
+    }
+
+    .download-sms-section .download-img-section img {
+        margin-top: 34px;
+        width: 100%;
+        height:auto;
+    }
+
+    .beauty-icon img {
+        left: 80%;
+        position: fixed;
+        height: 45px;
+        width: 45px;
+        float: right;
+        top: 90%;
+    }
+
+    .top-header-dropdown {
+        width: 100%;
+        display: block;
+    }
+
+    .has-search {
+        margin-left: 0px;
+    }
+
+    .has-search .form-control {
+        width: 100%;
+    }
+
+    .navbar .logo img {
+        text-align: center;
+        width: 190px;
+        margin-top: 0px;
+        margin-left: 20%;
+    }
+
+    .has-search .form-control-feedback {
+        position: inherit;
+        margin-top: 5px;
+        top: auto;
+    }
+
+
+
+    .home_page_slider .slick-prev,
+    .slick-next {
+        display: none !important;
+        position: absolute !important;
+        /* top: 78% ; */
+    }
+
+    .Home-category-page-slider .next-arrow{
+        display: none !important;
+    }
+    .Home-category-page-slider .prev-arrow{
+        display: none !important;
+    }
+    /* .home_page_slider .slick-next{
+        right: -30px !important;
+    } */
+    .safe-full-img img {
+        HEIGHT: 100PX !important;
+        padding: 0px !important;
+        width: 100% !important;
+    }
+
+    .download-sms-section .download-content-section p {
+        padding-left: 0px;
+        width: 100%;
+    }
+
+    .download-sms-section .download-content-section h2 {
+        padding-left: 0px;
+    }
+
+
+    .sub-categary-slider .slick-prev {
+        z-index: auto;
+    }
+
+    .categary-slider-boxses .custom-box {
+        height: 190px;
+    }
+
+    .sub-categary-slider .slick-next {
+        display: none;
+    }
+
+    .sub-categary-slider .slick-next:before {
+        display: none !important;
+    }
+
+    .home_page_slider .slick-next:before {
+        display: none;
+    }
+
+    .navbar-categary-box ul#menu {
+        position: fixed;
+        top: 26px;
+        left: 0px;
+    }
+
+    .navbar-categary-box ul.submenu {
+        background-color: white;
+    }
+
+    .navbar-categary-box ul.submenu li a {
+        width: 300px;
+    }
+
+    /* .card-main-box .card-desgin-box .card-service-box{
+        height: auto;
+    } */
+
+    .card-main-box .card-desgin-box {
+        padding: 20px 10px;
+    }
+
+    .Counter-number-add .input-group {
+        margin-left: 0px;
+        margin-top: 0;
+    }
+
+    .card-main-box .card-desgin-box .card-service-box .card-price p {
+        margin-bottom: 0px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+.cart-12{
+    flex-direction: row;
+    flex-wrap: nowrap !important;
+        align-items: center;
+    justify-content: space-between;
+}
+.input-group .input-group-btn,.input-group .form-control.input-number-1{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.main-cart-serivce-2 .Counter-number-add .input-group{
+    margin-top: 0 !important;
+}
+.Counter-number-add .center{
+    margin-right: 0;
+}
+.row.cart-12>*{
+    width: auto;
+    padding: 0;
+}
+.cart-12 .counter-text-box.mt-3 {
+    margin: 0 !important;
+}
+    .counter-text-box {
+        margin-bottom: 20px;
+    }
+
+    .card-delete-price {
+        display: block !important;
+    }
+
+    .card-main-box .card-desgin-box .card-service-box .card-delete-price .card-price del {
+        display: block;
+    }
+
+
+
+    .card-main-box .card-desgin-box .card-service-box .card-price {
+        font-size: 13px;
+        white-space:nowrap;
+    }
+
+    .card-main-box .card-desgin-box .card-service-box .card-delete {
+        margin-top: 4px;
+        margin-bottom: 15px;
+        margin-left: -18px;
+
+    }
+
+    .card-main-box .card-desgin-box .card-service-box .card-delete del {
+        display: none;
+    }
+
+    .card-main-box .card-desgin-box .card-service-box {
+        padding: 10PX;
+        height: 170px;
+    }
+
+    .card-total-price .card-main-price {
+        padding: 10PX;
+        margin-bottom: 50px;
+    }
+
+    .checkout-main-box .checkout-box .checkout-first-box .payment-selection {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .steal-deals-main-box .steal-summary-box {
+        padding: 8px;
+    }
+
+    .navbar-categary-box .dropdown {
+        float: left !important;
+    }
+
+    .navbar-categary-box .dropdown-content {
+        left: 6px;
+        display: none;
+        position: absolute;
+        right: 0;
+        background-color: #f9f9f9;
+        min-width: 229px;
+        box-shadow: 0px 8px 16px 0px rgb(0 0 0 / 20%);
+        z-index: 1;
+    }
+
+    .trasted-brand .trasted-brand-box img {
+        margin-bottom: 20px;
+    }
+
+    .sub-category-page-slider .owl-theme .owl-nav {
+        margin-top: 0px !important;
+    }
+
+    .my-Appoinment {
+        padding: 0px !important;
+    }
+
+    .my-Appoinment .tab-content .order-replace {
+        display: block;
+    }
+
+    .Address-box-desgin .main-address-box {
+        padding: 20px;
+    }
+
+    .main-address-box .my_profile_box .form-container {
+        padding: 0px;
+    }
+
+    .main-address-box .my_profile_box .mobile-verification p {
+        font-size: initial;
+
+    }
+
+    .my_profile_details .my_profile_box .form-container {
+        padding: 10px 20px;
+    }
+
+    .my_profile_details .my_profile_box {
+        padding: 25px;
+    }
+
+    .my_profile_details .my_profile_box .form-container h1 {
+        margin-top: -50px;
+    }
+
+    .my_profile_details .my_profile_box .form-control-2 .chk-box {
+        width: 55%;
+    }
+
+    .my_profile_details .my_profile_box .login-btn {
+        margin-top: 30px;
+        margin-bottom: 0px;
+    }
+
+    .fontWrapper .navbar {
+        margin-top: 100px;
+    }
+
+    .typeFont .active {
+        margin-top: 100px;
+    }
+
+    .my-Appoinment .tab-content .apointment-price {
+        padding: 10px 0px;
+        height: 130px;
+    }
+
+    .my_profile_details .my_profile_box h2 {
+        margin-top: -15px;
+    }
+
+    .main-Order-details-page {
+        height: 380px;
+    }
+
+    .main-Order-details-page .order-replace {
+        display: block;
+    }
+
+    .main-Order-details-page .price_type {
+        width: 100%;
+    }
+
+    .main-Order-details-page .apoinment-header p {
+        width: 64%;
+        font-size: 13px;
+    }
+
+    .faq-section .faqs-title {
+        font-size: 16px;
+    }
+
+    .my-Appoinment .tab-content .price_type .paymnt_price {
+        margin-right: 0px;
+    }
+
+    .my-Appoinment .tab-content .price_type {
+        display: flex;
+        width: 100%;
+    }
+    /* .main-address-box .my_profile_box .form-container a{
+        margin-left: -45px;
+    } */
+    .thankyou_box img {
+        width: 50%;
+        margin: 0 auto;
+    }
+
+    .categary-slider-boxses .main-category-box .custom-box {
+        margin-right: 20px;
+        width: 100%;
+        /* white-space: nowrap; */
+        height: 150PX;
+    }
+    .categary-slider-boxses .main-category-box .col-sm-4{
+       width:33%;
+    }
+    .categary-slider-boxses .main-category-box .custom-box img {
+   height: auto !important;
+    width: 70px !important;
+    padding:0px;
+    }
+
+    .categary-slider-boxses .main-category-box {
+        overflow: hidden;
+        width: 100%;
+    }
+
+    .address-cart-box-desgin .main-address-cart {
+        margin-bottom: 50px;
+        height: auto;
+    }
+
+    .my_profile_details .my_profile_box {
+        padding: 27px 0px;
+        background-color: white;
+
+    }
+
+    .categary-slider-boxses h2 {
+        font-size: 22px;
+    }
+
+    .why-choos-section h2 {
+        font-size: 22px;
+    }
+    .why-choos-section .line-img {
+         margin-bottom:30px;
+    }
+    .why-choos-section .col-sm-6{
+       width:50%;    
+    }
+    .download-sms-section .download-content-section h2 {
+        font-size: 22px;
+    }
+    .bonitaa_wallet_box .transation-history h5{
+        font-size:22px;
+        margin-top:30px;
+    }
+    .bonitaa_wallet_box .transation-history .line{
+        margin-bottom:30px;
+    }
+
+    .header-counter-text-2 .counter-header {
+        font-size: smaller;
+        width: 18px;
+        background: white;
+        margin-left: 83px;
+        margin-top: 0px;
+        border-radius: 50px;
+        color: #670099;
+        padding: -2px;
+        position:relative;
+        height: 39px;
+        text-align: center;
+        padding: 2px 6px;
+    }
+
+    .header-counter-text-2 {
+        margin-left: -3%;
+       
+        display: block !important;
+    }
+
+    .main-address-box .my_profile_box .login-form-bd h3 {
+        font-size: 22px;
+    }
+
+    .main-address-box .address-box h2 {
+        font-size: 24px;
+        margin-top: 0px !important;
+    }
+
+    .categary-details-section h2 {
+        font-size: 22px;
+    }
+    
+
+    .sub-category-page-slider h2 {
+        font-size: 22px;
+    }
+
+    .trasted-brand h2 {
+        font-size: 22px;
+    }
+
+    .my_profile_details .my_profile_box .form-control-2 p {
+        width: 38%;
+    }
+
+   .categary-details-section .col-sm-6 {
+        width: 33.3% !important;
+    }
+
+    .card-main-box .card-desgin-box .card-service-box ul li {
+        margin-bottom: 20px;
+               overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    line-clamp: 3;
+    -webkit-box-orient: vertical;
+    }
+
+    .card-total-price .card-main-price p {
+        font-size: 16px;
+    }
+
+    .card-total-price .card-main-price span {
+        font-size: 16px;
+    }
+
+    .my-Appoinment .tab-content>.tab-pane .btn-danger {
+        margin-left: 0px;
+    }
+
+    .my-Appoinment .tab-content>.tab-pane .btn-primary {
+        margin-left: 0px;
+    }
+    .my-Appoinment .appointment-header-box{
+         margin: 0px 10px 10px 10px;
+    }
+.my-Appoinment .tab-content>.tab-pane .btn-pending {
+    width:auto;
+    font-size:15px;
+
+}
+.my-Appoinment .tab-content>.tab-pane .btn-cancle {
+    width:auto;
+    font-size:15px;
+}
+.my-Appoinment .tab-content>.tab-pane .btn-complete {
+    width:auto;
+    font-size:15px;
+} 
+.my-Appoinment .tab-content>.tab-pane .btn-reject{
+      width:auto;
+          font-size:15px;
+
+}
+.my-Appoinment .tab-content>.tab-pane .btn-accept{
+        width:auto;
+    font-size:15px;
+}
+.my-Appoinment .tab-content .apoinment-header p {
+     font-size:15px;
+}
+.my-Appoinment .tab-content .price_type-1{
+    font-size:14px;
+}
+
+    .address-cart-box-desgin .main-address-text {
+        display: block !important;
+        padding-bottom: 6px;
+        text-align: initial;
+    }
+
+    .address-cart-box-desgin .main-address-text input {
+        position: absolute;
+        display: block;
+        margin-top: 5px;
+        margin-right: 0px;
+    }
+
+    .address-cart-box-desgin .main-address-text p {
+        margin-bottom: 4px;
+        margin-right: 30px;
+    }
+
+    .address-cart-box-desgin .main-address-text span {
+        margin-bottom: 4px;
+    }
+
+    .steal-deals-main-box .steal-summary-box {
+        padding: 15px;
+    }
+
+    .card-main-box .card-desgin-box h2 {
+        font-size: 22px;
+    }
+
+    .card-total-price h4 {
+        font-size: 22px;
+    }
+
+    .my-Appoinment h2 {
+        font-size: 22px;
+    }
+
+    .my-Appoinment .nav-tabs .nav-link {
+        font-size: 20px;
+    }
+
+    .modal.show .modal-dialog {
+        margin-top: 50%;
+    }
+
+    .modal-footer .btn-primary {
+        background-color: #670099;
+        color: white;
+        border: 1px solid #670099;
+        outline: none;
+        box-shadow: none;
+    }
+
+    .modal-footer .btn-primary:active {
+        background-color: #670099 !important;
+        color: white !important;
+        border: none;
+        outline: none;
+        box-shadow: none;
+    }
+
+    .modal-footer .btn-primary:focus {
+        background-color: #670099 !important;
+        color: white !important;
+        border: 1px solid #670099;
+        outline: none;
+        box-shadow: none;
+    }
+
+    .modal-footer .btn-primary:hover {
+        background-color: #670099;
+        color: white;
+        border: none;
+        border: 1px solid #670099;
+        outline: none;
+        box-shadow: none;
+    }
+
+    .card-main-box .card-desgin-box .card-service-box ul {
+          font-size: 13px;
+    padding-left: 0px;
+    margin-top: -13px;
+    }
+
+    .header-category-tabs .tablink {
+        width: 43%;
+        font-size: 14px;
+        padding: 13px 8px;
+        float: unset;
+    }
+
+    .blog-details-banner img {
+        height: auto;
+    }
+
+    .blog-details-contant .main-blog .blog-left-box {
+        padding: 0px;
+    }
+
+    .blog-details-contant .main-blog .blog-left-box .date-box {
+        margin-top: 30px !important;
+    }
+
+    .blog-details-contant .digital-technology .digital-text {
+        padding: 0px;
+    }
+
+    .blog-details-contant .digital-technology .digital-text h2 {
+        font-size: 22px;
+    }
+
+    .blog-details-contant .latest-page-line {
+        padding: 0px;
+    }
+
+    .commented-box .commented-main-box {
+        margin-left: 0px;
+        padding-bottom: 30px;
+        margin-top: 30px;
+    }
+
+    .commented-box .leave-comment {
+        margin-left: 0px;
+        margin-bottom: 50px;
+    }
+
+    .commented-box .leave-comment h3 {
+        margin: 30px 0px !important;
+    }
+
+    .commented-box .leave-comment p {
+        margin-bottom: 30px;
+    }
+
+    .address-normal-slot .normal-slot {
+        width: 100%;
+    }
+
+    .address-box .address-first-box-1 {
+        display: block;
+        margin-top: 0px;
+    }
+
+    .address-box .address-inner-box input {
+        margin-bottom: 40px;
+    }
+
+    /*.address-normal-slot .normal-slot {*/
+    /*    margin-bottom: 20px;*/
+    /*}*/
+
+    .address-normal-slot {
+        padding: 30px 30px 10px;
+    }
+
+    .home-page_conuter {
+        margin-left: 0;
+        margin-top: 0;
+        display: flex;
+        justify-content: flex-start;
+    }
+    .waxix-box .waxix-content .bottom_right .Price_box{
+        margin-left: 0;
+    }
+    .waxix-box .waxix-content .bottom_right{
+        padding: 0 0 0 20px;
+    }
+    .home-page_conuter .Counter-number-add .center{
+        margin-left: 0;
+        width: 100%;
+        margin-right: 0;
+    }
+
+    .home-page_conuter .Counter-number-add .input-group {
+        width: 100%;
+        /* margin-left: 40px; */
+    }
+
+
+    /* my appontment */
+    .my-Appoinment .single-paymwent-details {
+        margin-bottom: 20px;
+        padding: 10px;
+    }
+
+    .my-Appoinment .single-contact-details {
+        padding: 10px;
+    }
+
+    .my-Appoinment .single_page_suggetion {
+        padding: 10px;
+        margin-top:0px;
+    }
+
+    .my-Appoinment .Apppontment-single-view .single-view-last-box {
+        width: 100%;
+        /* margin-left: 20px; */
+         padding-left: 0px; 
+    }
+
+    .my-Appoinment .single-slot {
+        padding: 10px;
+    }
+
+    .my-Appoinment .main-single-box ul {
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+
+    .my-Appoinment .card-1 {
+        padding: 10px;
+    }
+
+    .my-Appoinment .main-single-box {
+        padding: 10px;
+    }
+
+    .my-Appoinment .Apppontment-single-view .single-view-first-box img {
+        width: 120px;
+        height: 120px;
+        border-radius: 10px;
+        margin-bottom: 10px;
+    }
+
+    .my-Appoinment .Apppontment-single-view .single-view-last-box p {
+        font-size: 14px;
+        margin-top: 5px;
+        margin-bottom: 0px;
+    }
+
+    .my-Appoinment .Apppontment-single-view .single-view-last-box h3 {
+        margin: 6px 0px;
+           font-size:16px;
+    }
+
+    .my-Appoinment .Apppontment-single-view .single-view-last-box .price-box {
+        width: 100%;
+        display: flex;
+        justify-content: flex-start;
+    }
+
+    .my-Appoinment .Apppontment-single-view .single-view-last-box .price-box p {
+        margin-top: 5px;
+    }
+
+    .my-Appoinment .Apppontment-single-view .single-view-last-box .price-box del {
+        margin-left: 8px;
+        margin-top:3px;
+    }
+
+    .my-Appoinment .card-1 .header-single-box p {
+        font-size: 15px;
+    }
+
+    .single-model-box .model-box-appointment .appointment-inner-second i {
+        font-size: 25px;
+    }
+    .my-Appoinment .card-1 .header-single-box {
+         padding:10px;
+}
+
+.my-Appoinment .card-1 .header-single-box .btn-pending{
+    width:auto;
+}
+    .my-Appoinment .payment-method p {
+        white-space: nowrap;
+    }
+    .counter-text-mobile-view {
+        margin-top: -34px;
+        display: block;
+        width: 200%;
+    }
+    .counter-text-mobile-view ul {
+        padding-left: 20px;
+    }
+
+    .counter-text-mobile-view ul li {
+        display: block;
+        list-style: disc;
+        text-align: initial;
+        font-size: 14px;
+    }
+
+    .main-cart-serivce-2 .cart-service-img img {
+        width: 100%;
+        height: 170px;
+    }
+    .my-Appoinment .card-1 .header-single-box .btn-complete{
+        width:auto;
+        font-size:15px
+    }
+
+    .main-cart-serivce-2 ul li {
+        display: none;
+    }
+
+    .main-cart-serivce-2 .counter-text-mobile-view .btn-primary {
+        display: block;
+        margin-top: -16px !important;
+        margin-left: 10px;
+
+    }
+
+    .main-cart-serivce-2 .Counter-number-add .input-group {
+   margin-top: -12px;
+    margin-left: -5px;
+    padding-left: 5px;
+    width: 150px;
+    }
+
+    .card-main-box .card-desgin-box .card-service-box h4 {
+        font-size: 14px;
+       /*height:50px;*/
+           overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    line-clamp: 3;
+    -webkit-box-orient: vertical;
+    }
+
+    .Counter-number-add{
+        width:fit-content;
+    }
+    .main-cart-serivce-2 .Counter-number-add .center {
+        margin-left: 0px;
+        width: auto;
+    }
+
+    .main-cart-serivce-2 {
+        margin-bottom: 30px;
+        background-color: white;
+        box-shadow: 0px 0px 10px #cfc4c4;
+        border-radius: 10px;
+    }
+
+    .card-main-box .card-desgin-box .card-service-box {
+        box-shadow: none;
+        width: 50%;
+    }
+    .top-header-dropdown ul{
+        width:100%;
+        padding-bottom: 4px;
+      }
+    .top-header-dropdown {
+        display: none;
+    }
+    .bonitaa-wallet-main-box .bonitaa-code-box h4 {
+        text-align: left;
+    }
+
+    .bonitaa-wallet-main-box .bonitaa-share {
+        display: block;
+        text-align: left;
+    }
+    .popup-btn-box{
+        width: auto !important;
+    }
+    .bonitaa_wallet_box .main-transaction-outer {
+        padding: 10px;
+    }
+    .ratings-box__item label{
+        padding: 0px 5px;
+    }
+
+    .transation-details-box .transation-details-price h4 {
+        margin-top: 25px;
+    }
+
+    .bonitaa_wallet_box .transation-details-box .transation-details-text p {
+        width: 90%;
+    }
+
+    .address-cart-box-desgin .main-details-box p{
+        min-height: auto;
+    }
+
+
+    .thankyou_pro .thankyou_box .btn-success{
+        margin-bottom: 30px;
+        font-size: 15px !important;
+    }
+     /* footer */
+     .footer-border {
+        padding: 30px 20px 0px;
+     }
+     .card-main-box .card-desgin-box .card-service-box .card-delete-price b {
+        font-size: 13px;
+        white-space:nowrap;
+     }
+     .main-address-box .my_profile_box .form-container a span{
+        margin-left: -45px;
+     }
+     
+     /*contact us page*/
+     .contact-details .details-confirm-box{
+          margin-bottom:20px !important;
+     }
+     .contact-details .details-confirm-box p{
+         font-size:18px !important;
+     }
+     .contact-details .contact-box{
+         margin:50px !important;
+     }
+     .main-company-details{
+         padding:50px !important;
+     }
+     .contact-details .contact-form{
+         margin-top:0px  !important;
+     }
+     .contact-header-bg{
+         height:200px !important;
+     }
+     .contact-details .main-box-contact {
+              margin: 50px 30px !important; 
+     }
+     .my-Appoinment .card-1 .header-single-box .btn-cancle{
+        width:auto;
+          font-size:14px;
+     }
+
+.Home-category-page-slider .owl-theme .owl-nav [class*='owl-']{
+    display:none;
+}
+.Home-category-page-slider-2 .owl-theme .owl-nav [class*='owl-']{
+    display:none;
+}
+
+.Home-category-page-slider-3 .owl-theme .owl-nav [class*='owl-']{
+    display:none;
+}
+.Home-category-page-slider h2{
+    font-size:22px;
+}
+.main-address-box .my_profile_box .radio-box span{
+    font-size:16px;
+}
+/*.main-address-box .my_profile_box .radio-box-1{*/
+/*    display:block;*/
+/*}*/
+.main-address-box .my_profile_box .radio-box-1 .radio-edit{
+    text-align:left;
+    font-size:16px;
+}
+.main-address-box .my_profile_box .radio-box{
+     display:block;
+}
+.main-address-box .my_profile_box .radio-box-1 label{
+    padding:0px 8px;
+}
+/*.main-address-box .my_profile_box .radio-box-1 label{*/
+/*    padding:0px;*/
+/*}*/
+.main-address-box .my_profile_box .radio-box .radio-edit{
+    margin-bottom:8px;
+    display:flex;
+}
+.main-address-box .my_profile_box .radio-box .radio-edit-2{
+    display:flex;
+}
+ .main-address-box .my_profile_box .radio-box .radio-edit-2 .form-check{
+      padding-left:22px;
+ }
+     .navbar{
+         padding: 0px  20px !important;
+     }
+.categary-details-section .categart-details-box .main-categary h4{
+       font-size:16px;
+   }
+   
+   .private-main-page .about-header{
+       height:auto;
+   }
+   .private-main-page .about-header h2{
+       padding:60px 0px;
+        font-size:30px;
+   }
+    .terms-main-page .about-header{
+       height:auto;
+   }
+   .terms-main-page .about-header h2{
+              padding:60px 0px;
+        font-size:30px;
+   }
+   .about-main-page .about-header{
+        height:auto;
+   }
+    .about-main-page .about-header h2{
+         padding:60px 0px;
+        font-size:30px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ipad-pro-media-query */
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1028px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {}
+
+/* nest-hub-media-query */
+@media screen and (min-width:1024px) and (-webkit-min-device-pixel-ratio:0) {}
+
+/*============	Media 768Px Start ============ */
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .waxix-box .waxix-content .bottom_right .Price_box {
+        margin-top: 0px !important;
+        margin-left: 0% !important;
+    }
+
+    .address-cart-box-desgin .main-details-box p{
+        min-height: 120px;
+    }
+    .address-cart-box-desgin .main-address-text {
+        display: flex !important;
+
+    }
+
+    .home-page_conuter .Counter-number-add .input-group {
+        margin-top: 0;
+    }
+
+    .bonitaa_wallet_box .transation-details-box .transation-details-text p {
+        width: 100%;
+    }
+
+    .home-page_conuter {
+        margin-top: 0px;
+        display: flex;
+        justify-content: start;
+    }
+
+    .modal.show .modal-dialog {
+        margin-top: 20%;
+    }
+
+    /*.header-counter-text-2 {*/
+    /*    position: absolute;*/
+    /*    left: 85%;*/
+    /*}*/
+
+    .bonitaa-wallet-main-box .bonitaa-share {
+        display: flex;
+        justify-content: end;
+    }
+
+    .bonitaa-wallet-main-box .bonitaa-code-box h4 {
+        text-align: center;
+    }
+
+    .Counter-number-add .input-group {
+        margin-top: 0px;
+    }
+
+    .card-main-box .card-desgin-box .card-service-box {
+        box-shadow: 0px 0px 10px lightgrey;
+    }
+
+    .navbar .logo img {
+        margin-left: 100%;
+    }
+     .navbar .logo{
+         width:35%;
+     }
+
+
+     .header-cart{
+      
+             /*float: right !important;*/
+          margin-right: 21px !important;
+     }
+
+    .transation-details-box .transation-details-price h4 {
+        margin-top: 3px;
+    }
+
+    /*.bonitaa_wallet_box {*/
+    /*    margin: 50px;*/
+    /*}*/
+
+    .counter-text-mobile-view {
+        display: none;
+    }
+
+    .main-cart-serivce-2 ul li {
+        display: block;
+    }
+
+    .main-cart-serivce-2{
+        box-shadow: 0px 0px;
+        background-color: transparent;
+    }
+
+    .single-model-box .model-box-appointment .appointment-inner-second i {
+        font-size: 38px;
+    }
+
+    .card-main-box .card-desgin-box .card-service-box ul li {
+        margin-bottom: 0px;
+    }
+    .card-main-box .card-desgin-box .card-service-box{
+        height: 240px;
+    }
+
+    .address-cart-box-desgin .main-address-text input {
+
+        margin-right: 10px;
+    }
+
+    .my-Appoinment .tab-content .price_type .colon {
+        margin-left: 20px;
+        flex: 0;
+    }
+
+    .show_time {
+        margin-left: 28px;
+        display: block;
+        font-size: 15px;
+    }
+
+    /* .address-cart-box-desgin .main-address-text p{
+        margin-left: 20px;
+      } */
+    .my-Appoinment .tab-content .order-replace {
+        display: flex;
+    }
+
+    .waxix-box .waxix-content .bottom_right {
+        margin-top: 0px;
+    }
+
+    .waxix-box .waxix-content .bottom_right {
+        margin-left: 0;
+        padding: 0 0 0 20px;
+    }
+
+    .col-md-4 {
+        width: 25% !important;
+    }
+     .col-md-4{
+         width:33.3% !important;
+     }
+    
+
+    .my_profile_details .my_profile_box .form-control-2 p {
+        width: 48%;
+    }
+
+    .my_profile_details .my_profile_box .form-control-2 .chk-box {
+        width: 50%;
+    }
+
+    .waxix-box .waxix-content .bottom_right .add_cart_btn {
+        margin-left: 5%;
+    }
+
+    .waxix-box .waxix-img {
+        width: 60% !important;
+    }
+
+    .waxix-box .waxix-content .bottom_right a .add_cart_btn {
+        margin-left: -7px;
+    }
+
+    .waxix-box .waxix-img .service_time1 {
+        position: absolute;
+        margin-top: 33px !important;
+        left: 175px !important;
+    }
+
+    .waxix-box .waxix-img .service-details1 {
+        width: 22% !important;
+    }
+
+    .top-header-box .top-header-icon {
+        position: absolute;
+        left: 39%;
+    }
+
+    .waxix-box .waxix-img .service_time {
+        margin-top: 45px !important;
+    }
+
+    .main-cart-serivce-2 .card-main-box .card-desgin-box .card-service-box {
+        height: 240px;
+    }
+
+    .waxix-box .waxix-img img {
+        width: 245px;
+        height: 245px !important;
+        border-radius: 10px 0px 0px 10px !important;
+    }
+    .box-waxix .waxix-img img {
+        border-radius: 10px !important;
+    }
+
+    .waxix-box {
+        height: 246px;
+        display: flex !important;
+    }
+
+    .waxim-text-img h4 {
+        display: none;
+    }
+
+    .waxix-box .waxix-content h4 {
+        display: block !important;
+    }
+
+    .waxix-box .waxix-content {
+        margin-top: 10px;
+    }
+
+    .waxix-box .waxix-img .service-details {
+        margin-top: -94px;
+        width: 35% !important;
+        position: relative !important;
+    }
+
+    .waxix-box .waxix-img .service-details1 {
+        margin-top: -94px;
+        width: 35% !important;
+        position: relative !important;
+    }
+
+    .waxim-text-img h4 {
+        margin-left: 30px;
+    }
+
+    .waxix-box .waxix-content .service_time1 {
+        margin-top: 0px !important;
+    }
+
+    .trasted-brand .trasted-brand-box img {
+        margin-bottom: 20px;
+    }
+
+    .sub-category-page-slider .owl-theme .owl-nav {
+        margin-top: 0px !important;
+    }
+    .beauty-icon img {
+        top: 90%;
+        left: 90%;
+    }
+    .my_profile_details .my_profile_box .form-control-2 .chk-box {
+        margin-top: 0px;
+    }
+
+    .Counter-number-add {
+        display: block;
+    }
+
+    /* my appointment */
+    .row.cart-12{
+        margin-right: 0 !important;
+    }
+    .my-Appoinment {
+        padding: 0px !important;
+    }
+    .my-Appoinment .main-single-box .Apppontment-single-view {
+        display: flex;
+    }
+
+    .my-Appoinment .Apppontment-single-view .single-view-first-box {
+        width: auto;
+    }
+
+    /* .my-Appoinment .Apppontment-single-view .single-view-last-box{
+        margin-left: 30px;
+    } */
+    .my-Appoinment .Apppontment-single-view .single-view-first-box img {
+        height: 180px;
+        width: 180px;
+    }
+
+    .my-Appoinment .Apppontment-single-view .single-view-last-box h3 {
+        margin: 10px 0px;
+    }
+
+    .my-Appoinment .Apppontment-single-view .single-view-last-box p {
+        margin-top: 10px;
+    }
+
+    .my-Appoinment .Apppontment-single-view .single-view-last-box .price-box {
+        margin-top: 10px;
+    }
+     
+    /* .main-cart-serivce-2 */
+
+    
+    .main-cart-serivce-2 .cart-service-img img {
+        width: 240px;
+        height: 240px;
+    }
+
+    .main-cart-serivce-2 .counter-text-box .btn-primary {
+        display: block;
+        padding-left:0px;
+    }
+
+    .main-cart-serivce-2 .Counter-number-add .input-group {
+        width:150px;
+    }
+
+    .main-cart-serivce-2 .counter-text-box {
+        margin-top: 0px !important;
+    }
+
+    .main-cart-serivce-2 {
+    margin-bottom: -15px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    }
+
+    .checkout-main-box .checkout-box .checkout-first-box .payment-selector-box .paymet-select-first-box{
+        margin-left:15px !important;
+    }
+    .my-Appoinment .tab-content .apointment-price{
+        height:70px;
+    }
+    .card-main-box .card-desgin-box .card-service-box h4{
+            font-size: 15px;
+            height:34px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    line-clamp: 1;
+    -webkit-box-orient: vertical;
+    }
+    .card-main-box .card-desgin-box .card-service-box ul {
+        margin-bottom:15px;
+        padding-left:0px;
+    }
+    .my-Appoinment .tab-content .price_type-1{
+    font-size:16px;
+}
+    .my-Appoinment .single_page_suggetion {
+         margin-top:0px;
+    }
+    .footer-section .footer-icon{
+        width:100%;
+    }
+    .categary-slider-boxses .main-category-box .col-md-3{
+            width:25% !important;
+           /*width :min-content !important;*/
+    }
+   .categary-details-section .col-md-3{
+       width:25% !important;
+   }
+   .categary-details-section .categart-details-box .main-categary h4{
+       font-size:18px;
+   }
+    .categary-slider-boxses .main-category-box .custom-box img{
+        height: auto !important; 
+    width: 80% !important;
+    padding: 10px;
+    }
+.categary-slider-boxses .main-category-box .custom-box {
+    height:auto !important;
+}
+.main-address-box .my_profile_box .radio-box
+{
+      display:flex;
+}
+.main-address-box .my_profile_box .radio-box .radio-edit{
+    margin-bottom:0px;
+}
+.main-address-box .my_profile_box .radio-box-1{
+    display:flex;
+}
+.main-address-box .my_profile_box .radio-box-1 .radio-edit{
+    margin-bottom:0px;
+}
+.main-address-box .my_profile_box .radio-box-1 label{
+    padding:0px 20px;
+}
+}
+
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+
+@media (min-width: 320px) and (max-width: 768px) {}
+
+@media (max-width: 767px) {
+    .cart-service-img{
+        width: 100%;
+        max-width: 40%;
+        padding: 6px;
+    }
+    .main-cart-serivce-2 .cart-service-img img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        margin-bottom: 0;
+    }
+    .card-main-box .card-desgin-box .card-service-box{
+        width: 100%;
+        max-width: 60%;
+        height: auto;
+        margin-bottom: 0;
+    }
+    .main-cart-serivce-2{
+        margin-bottom: 30px;
+    }
+
+    .card-main-box .card-desgin-box .card-service-box .row{
+        margin: 0;
+    }
+    .card-main-box .card-desgin-box .card-service-box .row .home-page_conuter,.card-main-box .card-desgin-box .card-service-box .row .add_cart{
+        padding: 0;
+    }
+}
+
+/*============ Media 300Px Star ============ */
+
+@media (max-width: 480px) {
+    .box-waxix{
+        max-width: 90% !important;
+        min-width: 90% !important;
+    }
+    .waxix-box .waxix-img img{
+        border-radius: 10px !important;
+    }
+    .nav-controller_box .waxix-box{
+        flex-wrap: wrap;
+    }
+    .nav-controller_box .waxix-box .waxix-img,.nav-controller_box .waxix-box .waxix-content{
+        max-width: 100%;
+    }
+    .nav-controller_box .waxix-box .waxix-content{
+        padding: 20px;
+    }
+    .nav-controller_box .box-waxix .waxix-box .waxix-content{
+        padding: 20px 0 0 0;
+    }
+    .nav-controller_box .waxix-box .waxix-content a,.nav-controller_box .waxix-box .waxix-content .service_time{
+        margin-left: 20px !important;
+    }
+    .nav-controller_box .waxix-box .waxix-img img{
+        height: 230px !important;
+    }
+    .font-sans.antialiased .navbar .logo img{
+        width: 170px;
+    }
+    .nav-controller_box .waxix-box .waxix-content .view-details-text{
+        margin-left: 0 !important;
+    }
+    .bonitaa-safer-brand{
+        padding-bottom: 10px;
+      }
+      .bonitaa-safer-brand .safer-brand-box img{
+        width: 100px;
+      }
+      .bonitaa-safer-brand h2 img{
+        height: 50px;
+        width: 50px;
+      }
+      .bonitaa-safer-brand h2{
+        display: flex;
+        align-items: center;
+        gap: 10px;
+      }
+      .why-choos-section .why-choosh-box{
+        margin-bottom: 30px;
+      }
+      .bonitaa-safer-brand{
+        padding-top: 30px;
+      }
+}
+
+/*============ Media 320Px Start ============ */
+
+@media (max-width: 320px) {}

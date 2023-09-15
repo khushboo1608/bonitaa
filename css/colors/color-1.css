@@ -1,0 +1,250 @@
+/*-------d5275a color--------*/
+.beauty-header .menuzord-menu > li.active > a,
+.beauty-header .menuzord-menu ul.dropdown li.active > a,
+.woocommerce-form-coupon-toggle .woocommerce-info::before,
+.woocommerce-form-coupon-toggle .woocommerce-info .showcoupon,
+.woocommerce table.shop_table td .coupon button.button,
+.woocommerce table.shop_table td.product-name a,
+.error-section .error-txt p a,
+.getin-section .single-consultant .content a:hover,
+.contact-info-section .contact-number address p a,
+.comment-section ul li a:hover,
+.blog-sidebar .post-categories ul li:hover a,
+.blog-sidebar .post-categories ul li a::before,
+.blog-sidebar .single-latest-post h6 a,
+.blog-sidebar .search-widget button:hover,
+.product-review-tab .review .single-review .rating i,
+.product-details-wrapper .product-details-content .rating li i,
+.product-gallery aside .single-block.tag li a:hover,
+.product-gallery aside .categorie .card .card-body a:before,
+.product-gallery aside .categorie .card button[aria-expanded^="false"]:hover:after,
+.product-gallery aside .categorie .card button[aria-expanded^="true"]:hover:after,
+.product-gallery aside .categorie .card button:hover,
+.product-gallery aside .categorie .card .card-body a:hover,
+.list-view .product-price a.readmore:hover,
+.list-view .product-price a:hover,
+.filtering-area .view-formate li.active i,
+.filtering-area .view-formate li:hover i,
+.filtering-area .favouritCart li i:hover,
+.feature-section .single-feature i,
+.photo-gallery .filtering-menu li:hover,
+.treatment-info-section .info-content li::before,
+.banner-section .breadcrumb a,
+.service-section.v2 .single-service:hover .img-over-content i,
+.service-section.v2 .single-service .img-over-content a:hover,
+footer p.copyright i,
+footer p.copyright a,
+.footer-widget .recent-post-widget a,
+.footer-widget .contact-widget address a,
+.single-blog .blog-content .title:hover,
+.single-blog .blog-content .readmore:hover,
+.priceing-section .single-price-list h6 span,
+.product-carousel-wrapper .owl-nav i,
+.beautyLab-gallery .filtering-menu li.is-checked,
+.beautyLab-gallery .filtering-menu li:hover,
+.welcome-carousel-wrapper .slick-prev:hover:before,
+.welcome-carousel-wrapper .slick-next:hover:before,
+.welcome-section .single-feature:hover i,
+.welcome-section .single-feature:hover .feature-content h6,
+.beauty-header .megamenu .col3 h6,
+.home1-slider .Modern-Slider .PrevArrow,
+.home1-slider .Modern-Slider .NextArrow,
+.color-d5, a{
+    color: #d5275a;
+}
+
+
+.woocommerce-form-coupon-toggle .woocommerce-info,
+.woocommerce .cart_totals .checkout-button,
+.woocommerce table.shop_table td.actions button.button[name="update_cart"],
+.woocommerce table.shop_table td .coupon button.button,
+.comment-form-section form input:focus,
+.getin-section .get-in form input:focus,
+.getin-section .get-in form textarea:focus,
+.comment-form-section form textarea:focus,
+.product-details-wrapper .add-cart-area .favourit,
+.product-details-wrapper .add-cart-area li.qty i:hover,
+.product-gallery aside .special-offer .offer-text a,
+.product-gallery aside .special-offer .offer-text a,
+.product-gallery aside .categorie .card button[aria-expanded^="false"]:hover:after,
+.product-gallery aside .categorie .card button[aria-expanded^="true"]:hover:after,
+.list-view .product-price a.readmore:hover,
+.cta-section .mail-form,
+.ui-widget-content .ui-state-active,
+.ui-widget-header .ui-state-active,
+.ui-state-highlight,
+.ui-widget-content .ui-state-highlight,
+.ui-widget-header .ui-state-highlight,
+.booking-section .booking-wrapper .single-input .nice-select:focus,
+.booking-section .booking-wrapper .single-input input:focus,
+.booking-section .booking-wrapper .single-input textarea:focus,
+.home1-slider .Modern-Slider .PrevArrow,
+.home1-slider .Modern-Slider .NextArrow {
+    border-color: #d5275a;
+}
+
+.woocommerce form.checkout_coupon button.button,
+.woocommerce #payment #place_order,
+.woocommerce .cart_totals .checkout-button.alt,
+.woocommerce table.shop_table td.actions button.button[name="update_cart"],
+.woocommerce table.shop_table td .coupon button.button:hover,
+.error-section .error-txt .backto,
+.getin-section .get-in form button.send-msg,
+.comment-form-section form button,
+.blog-sidebar .post-categories ul li:hover span,
+.blog-page .single-blog .date,
+.product-review-tab .review .review-form button,
+.product-review-tab .nav a.active,
+.product-details-wrapper .add-cart-area .favourit,
+.product-details-wrapper .add-cart-area .addtocart,
+.product-details-wrapper .add-cart-area li.qty i:hover,
+.product-gallery aside .price .ui-slider-handle,
+.product-gallery aside .price .ui-slider-range,
+.product-gallery aside .single-block h6,
+.pagination li .current-item,
+.pagination li span:hover,
+.pagination li a:hover,
+.list-view .single-product:hover .product-divider,
+.product-gallery .product-hover ul,
+.product-gallery .product-divider,
+.filtering-area .favouritCart li span,
+.experts-section .social-contact a,
+.photo-gallery .filtering-menu li.is-checked,
+.cta-section .mail-form .join-btn,
+.info-content .section-title::before,
+.treatment-details-section .section-title::before,
+.related-service-section .section-title::before,
+.priceing-section.v2 .premium::before,
+.priceing-section.v2 .price-footer .get-start:hover,
+.specialize-section .tooltipbar.bar2,
+.quick-support-section .social-link ul li a:hover,
+.scroll-top,
+.footer-widget .newsletter-widget button,
+.priceing-section a.booking-now,
+.cta-content a,
+.product-carousel-wrapper .product-hover a:hover,
+.service-section .single-service:hover .divider,
+.ui-widget-content .ui-state-active,
+.ui-widget-header .ui-state-active,
+.ui-state-highlight,
+.ui-widget-content .ui-state-highlight,
+.ui-widget-header .ui-state-highlight,
+.ui-datepicker .ui-datepicker-header,
+.booking-section .booking-wrapper form button,
+#search-modal .modal-content,
+.beauty-header .menuzord-menu .megamenu .owl-next,
+.beauty-header .menuzord-menu .megamenu .owl-prev,
+.home1-slider .Modern-Slider .PrevArrow:hover,
+.home1-slider .Modern-Slider .NextArrow:hover,
+.home1-slider .Modern-Slider .explore-btn,
+.bg-d5 {
+    background-color: #d5275a;
+}
+
+.priceing-section.v2 .premium {
+    border-top-color: #d5275a !important;
+}
+
+.priceing-section.v2 .premium .get-start {
+    background-color: #d5275a!important;
+}
+.priceing-section.v2 .premium .get-start:hover {
+    background-color: #720f83!important;
+}
+
+/*-----------------720f83 color------------------*/
+.contact-info-section .contact-number address p i,
+.blog-sidebar .single-latest-post h6 a:hover,
+.product-details-wrapper .product-type tr td a,
+.experts-section .social-contact a:hover,
+.treatment-details-section .brochure:hover,
+.home3-hero .mouse:hover:after,
+.video-content i:hover,
+.cta-content a:hover,
+.priceing-section .single-price-list h6 a:hover,
+.price-list-tab .tab-menu li a:hover,
+.product-carousel-wrapper .product-hover a,
+#search-button:hover i,
+.beauty-header .menuzord-menu ul.dropdown li a:hover,
+.transparent.sticked .menuzord-menu > li a:hover,
+.beauty-header .menuzord-menu > li a:hover,
+.color-72 {
+    color: #720f83;
+}
+
+
+.woocommerce .cart_totals .checkout-button.alt:hover,
+.woocommerce table.shop_table td.actions button.button[name="update_cart"]:hover,
+.beauty-header .menuzord-menu .megamenu .owl-next:hover,
+.beauty-header .menuzord-menu .megamenu .owl-prev:hover,
+.beauty-header .menuzord-menu>li>.megamenu,
+.beauty-header .menuzord-menu ul.dropdown,
+.beauty-header .menuzord-menu ul.dropdown li ul.dropdown {
+    border-color: #720f83;
+}
+
+
+.woocommerce form.checkout_coupon button.button:hover,
+.woocommerce #payment #place_order:hover,
+.woocommerce .cart_totals .checkout-button.alt:hover,
+.woocommerce table.shop_table td.actions button.button[name="update_cart"]:hover,
+.contact-info-section .title::before,
+.getin-section .get-in .title::before,
+.getin-section .consultant-wrapper .title::before,
+.comment-section .title::before,
+.comment-form-section .title::before,
+.getin-section .get-in form button.send-msg:hover,
+.comment-form-section form button:hover,
+.blog-details-wrapper .admin-details,
+.blog-sidebar .widget-title::before,
+.product-review-tab .review .review-form button:hover,
+.product-details-wrapper .add-cart-area .addtocart:hover,
+.priceing-section.v2 .premium .price-footer .get-start:hover,
+.priceing-section.v2 .price-footer .get-start,
+.scroll-top:hover,
+.footer-widget .newsletter-widget button:hover,
+.price-list-tab .tab-menu li a.active,
+.priceing-section a.booking-now:hover,
+.booking-section .booking-wrapper form button:hover,
+.welcome-carousel-wrapper .slick-prev,
+.welcome-carousel-wrapper .slick-next,
+.welcome-section .single-feature .divider,
+.service-section .single-service .divider,
+.beautyLab-gallery-section .single-gallery .divider,
+.product-carousel-wrapper .divider,
+.home1-slider .Modern-Slider .explore-btn:hover,
+.bg-72 {
+    background-color: #720f83;
+}
+
+
+/*-----------transparent background-----------*/
+.single-blog:hover .brand,
+.product-carousel-wrapper .owl-prev:hover,
+.product-carousel-wrapper .owl-next:hover,
+.welcome-carousel-wrapper #carousel-text,
+.product-carousel-wrapper .single-carousel .product-hover {
+    background: rgba(111, 0, 129, 0.8);
+}
+
+.woocommerce table.shop_table td.product-remove a.remove,
+.single-blog .brand li.gallery {
+    background: rgba(213, 39, 90, 0.8);
+}
+
+.footer-widget .newsletter-widget input:focus {
+    border-color: rgba(213, 39, 90, 0.36);
+}
+
+
+
+@media (max-width: 991px) {
+    .beauty-header.sticked .menuzord .showhide em,
+    .beauty-header .menuzord .showhide em{
+        background: #d5275a;
+    }
+    
+}
+
+
+

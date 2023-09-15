@@ -1,0 +1,47 @@
+/* Custom Slider CSS :: START */
+.containerx {
+  max-width: 100%;
+  width: 100%;
+  padding:  6rem 0rem 0rem 2px;
+  margin: 0 auto;
+}
+.main .containerx .swiper-container .swiper-wrapper .swiper-slide .card-image {
+  background: #ffffff;
+  border: none;
+  outline: none;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 3px rgba(0, 0, 0, 0.24);
+  border-radius: 25px;
+}
+.main .containerx .swiper-container .swiper-wrapper .swiper-slide .card-image img {
+  display: block;
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: auto;
+  -o-object-fit: cover;
+  object-fit: cover;
+  border-radius: 25px;
+
+}
+.main .containerx .swiper-container .swiper-pagination-bullet {
+  opacity: 0.8;
+  background: #252a32;
+}
+.main .containerx .swiper-container .swiper-pagination-bullet-active {
+  background: #ffffff;
+}
+.main .containerx .swiper-container .swiper-button-next,
+.main .containerx .swiper-container .swiper-button-prev {
+  background-image: none;
+  background-size: 0;
+  background-repeat: no-repeat;
+  background-position: 0;
+  margin-top: -1rem;
+}
+.main .containerx .swiper-container .swiper-button-next .arrow-icon,
+.main .containerx .swiper-container .swiper-button-prev .arrow-icon {
+  font-size: 2rem;
+  color: #ffffff;
+}
+/* Custom Slider CSS :: END */
